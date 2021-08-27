@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
+   <work>
+      <work-title>等候耶和华</work-title>
+   </work>
    <part-list>
       <score-part id="P1">
          <part-name>Music</part-name>
@@ -9,7 +12,7 @@
    <part id="P1">
       <measure number="1">
          <attributes>
-            <divisions>2</divisions>
+            <divisions>4</divisions>
             <key>
                <fifths>-3</fifths>
             </key>
@@ -28,7 +31,7 @@
                <alter>-1</alter>
                <octave>3</octave>
             </pitch>
-            <duration>3</duration>
+            <duration>6</duration>
             <type>quarter</type>
             <dot />
             <lyric number="1">
@@ -44,7 +47,7 @@
                <alter>-1</alter>
                <octave>4</octave>
             </pitch>
-            <duration>1</duration>
+            <duration>2</duration>
             <type>eighth</type>
             <lyric number="1">
                <text>候</text>
@@ -58,7 +61,7 @@
                <step>F</step>
                <octave>4</octave>
             </pitch>
-            <duration>1</duration>
+            <duration>2</duration>
             <type>eighth</type>
             <beam number="1">begin</beam>
             <notations>
@@ -76,7 +79,7 @@
                <step>G</step>
                <octave>4</octave>
             </pitch>
-            <duration>1</duration>
+            <duration>2</duration>
             <type>eighth</type>
             <beam number="1">end</beam>
             <notations>
@@ -88,7 +91,7 @@
                <step>F</step>
                <octave>4</octave>
             </pitch>
-            <duration>1</duration>
+            <duration>2</duration>
             <type>eighth</type>
             <beam number="1">begin</beam>
             <notations>
@@ -107,7 +110,7 @@
                <alter>-1</alter>
                <octave>4</octave>
             </pitch>
-            <duration>1</duration>
+            <duration>2</duration>
             <type>eighth</type>
             <beam number="1">end</beam>
             <notations>
@@ -121,7 +124,7 @@
                <step>C</step>
                <octave>4</octave>
             </pitch>
-            <duration>8</duration>
+            <duration>16</duration>
             <type>whole</type>
             <lyric number="1">
                <text>华，</text>
@@ -129,6 +132,148 @@
             <lyric number="2">
                <text>华，</text>
             </lyric>
+         </note>
+      </measure>
+      <measure number="3">
+         <note>
+            <pitch>
+               <step>B</step>
+               <alter>-1</alter>
+               <octave>3</octave>
+            </pitch>
+            <duration>6</duration>
+            <type>quarter</type>
+            <dot />
+            <lyric number="1">
+               <text>等</text>
+            </lyric>
+            <lyric number="2">
+               <text>仰</text>
+            </lyric>
+         </note>
+         <note>
+            <pitch>
+               <step>E</step>
+               <alter>-1</alter>
+               <octave>4</octave>
+            </pitch>
+            <duration>2</duration>
+            <type>eighth</type>
+            <lyric number="1">
+               <text>侯</text>
+            </lyric>
+            <lyric number="2">
+               <text>望</text>
+            </lyric>
+         </note>
+         <note>
+            <pitch>
+               <step>C</step>
+               <octave>4</octave>
+            </pitch>
+            <duration>2</duration>
+            <type>eighth</type>
+            <beam number="1">begin</beam>
+            <notations>
+               <slur type="start" />
+            </notations>
+            <lyric number="1">
+               <text>耶</text>
+            </lyric>
+            <lyric number="2">
+               <text>耶</text>
+            </lyric>
+         </note>
+         <note>
+            <pitch>
+               <step>E</step>
+               <alter>-1</alter>
+               <octave>4</octave>
+            </pitch>
+            <duration>2</duration>
+            <type>eighth</type>
+            <beam number="1">end</beam>
+            <notations>
+               <slur type="stop" />
+            </notations>
+         </note>
+         <note>
+            <pitch>
+               <step>F</step>
+               <octave>4</octave>
+            </pitch>
+            <duration>2</duration>
+            <type>eighth</type>
+            <beam number="1">begin</beam>
+            <notations>
+               <slur type="start" />
+            </notations>
+            <lyric number="1">
+               <text>和</text>
+            </lyric>
+            <lyric number="2">
+               <text>和</text>
+            </lyric>
+         </note>
+         <note>
+            <pitch>
+               <step>E</step>
+               <alter>-1</alter>
+               <octave>4</octave>
+            </pitch>
+            <duration>2</duration>
+            <type>eighth</type>
+            <beam number="1">end</beam>
+            <notations>
+               <slur type="stop" />
+            </notations>
+         </note>
+      </measure>
+      <measure number="4">
+         <note>
+            <pitch>
+               <step>C</step>
+               <octave>4</octave>
+            </pitch>
+            <duration>1</duration>
+            <type>16th</type>
+            <beam number="1">begin</beam>
+            <notations>
+               <slur type="start" />
+            </notations>
+            <lyric number="1">
+               <text>华，</text>
+            </lyric>
+            <lyric number="2">
+               <text>华，</text>
+            </lyric>
+         </note>
+         <note>
+            <pitch>
+               <step>B</step>
+               <alter>-1</alter>
+               <octave>3</octave>
+            </pitch>
+            <duration>3</duration>
+            <type>eighth</type>
+            <dot />
+            <beam number="1">end</beam>
+            <notations>
+               <slur type="stop" />
+               <tied type="start" />
+            </notations>
+         </note>
+         <note>
+            <pitch>
+               <step>B</step>
+               <alter>-1</alter>
+               <octave>3</octave>
+            </pitch>
+            <duration>8</duration>
+            <type>half</type>
+            <notations>
+               <tied type="stop" />
+            </notations>
          </note>
       </measure>
    </part>
