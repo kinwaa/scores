@@ -1,0 +1,10 @@
+
+.gitignore
+!/.gitignore
+
+.mscbackup
+
+*.mscz
+*.pdf
+*.jpg
+*.gif
