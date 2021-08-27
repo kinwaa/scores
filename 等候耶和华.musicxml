@@ -63,7 +63,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">begin</beam>
             <notations>
                <slur type="start" />
             </notations>
@@ -81,7 +80,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">end</beam>
             <notations>
                <slur type="stop" />
             </notations>
@@ -93,7 +91,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">begin</beam>
             <notations>
                <slur type="start" />
             </notations>
@@ -112,7 +109,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">end</beam>
             <notations>
                <slur type="stop" />
             </notations>
@@ -173,7 +169,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">begin</beam>
             <notations>
                <slur type="start" />
             </notations>
@@ -192,7 +187,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">end</beam>
             <notations>
                <slur type="stop" />
             </notations>
@@ -204,7 +198,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">begin</beam>
             <notations>
                <slur type="start" />
             </notations>
@@ -223,7 +216,6 @@
             </pitch>
             <duration>2</duration>
             <type>eighth</type>
-            <beam number="1">end</beam>
             <notations>
                <slur type="stop" />
             </notations>
@@ -237,7 +229,6 @@
             </pitch>
             <duration>1</duration>
             <type>16th</type>
-            <beam number="1">begin</beam>
             <notations>
                <slur type="start" />
             </notations>
@@ -257,7 +248,6 @@
             <duration>3</duration>
             <type>eighth</type>
             <dot />
-            <beam number="1">end</beam>
             <notations>
                <slur type="stop" />
                <tied type="start" />
