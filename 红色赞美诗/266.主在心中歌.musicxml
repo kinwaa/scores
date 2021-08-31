@@ -47,7 +47,7 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <text>有</text>
+               <text>1. 有</text>
             </lyric>
          </note>
          <backup>
@@ -1379,7 +1379,7 @@
       </measure>
       <measure number="17">
          <barline location="left">
-            <ending number="1" type="start" />
+            <ending number="1, 2" type="start" />
          </barline>
          <note>
             <pitch>
@@ -1402,11 +1402,11 @@
             <duration>2</duration>
             <voice>1</voice>
             <type>quarter</type>
-            <lyric number="2">
-               <text>有</text>
+            <lyric number="1">
+               <text>2. 有</text>
             </lyric>
-            <lyric number="3">
-               <text>有</text>
+            <lyric number="2">
+               <text>3. 有</text>
             </lyric>
          </note>
          <backup>
@@ -1433,13 +1433,13 @@
          </note>
          <barline location="right">
             <bar-style>light-heavy</bar-style>
-            <ending number="1" type="stop" />
+            <ending number="1, 2" type="stop" />
             <repeat direction="backward" />
          </barline>
       </measure>
       <measure number="18">
          <barline location="left">
-            <ending number="2" type="start" />
+            <ending number="3" type="start" />
          </barline>
          <note>
             <pitch>
@@ -1468,7 +1468,7 @@
             <dot />
          </note>
          <barline location="right">
-            <ending number="2" type="discontinue" />
+            <ending number="3" type="discontinue" />
          </barline>
       </measure>
       <measure number="19">
@@ -2509,9 +2509,6 @@
          </note>
       </measure>
       <measure number="17">
-         <barline location="left">
-            <ending number="1" type="start" />
-         </barline>
          <note>
             <pitch>
                <step>B</step>
@@ -2555,14 +2552,10 @@
          </note>
          <barline location="right">
             <bar-style>light-heavy</bar-style>
-            <ending number="1" type="stop" />
             <repeat direction="backward" />
          </barline>
       </measure>
       <measure number="18">
-         <barline location="left">
-            <ending number="2" type="start" />
-         </barline>
          <note>
             <pitch>
                <step>B</step>
@@ -2586,9 +2579,6 @@
             <type>half</type>
             <dot />
          </note>
-         <barline location="right">
-            <ending number="2" type="discontinue" />
-         </barline>
       </measure>
       <measure number="19">
          <note>
