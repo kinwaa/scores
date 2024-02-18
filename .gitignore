@@ -2,13 +2,18 @@
 .gitignore
 !/.gitignore
 
-.mscbackup
+.mscbackup/
 
 *.mscz
 *.pdf
 *.jpg
 *.gif
+*.png
+*.webp
+*.bak
 
 Untitled.musicxml
 
 .project
+
+/.vscode/
