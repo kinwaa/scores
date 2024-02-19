@@ -26,10 +26,10 @@
          <group-barline>no</group-barline>
       </part-group>
       <score-part id="P1">
-         <part-name>S/A</part-name>
+         <part-name>S&#x000A;A</part-name>
       </score-part>
       <score-part id="P2">
-         <part-name>T/B</part-name>
+         <part-name>T&#x000A;B</part-name>
       </score-part>
       <part-group type="stop" number="1" />
    </part-list>
@@ -59,7 +59,13 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <text>1. 有</text>
+               <text>&#x0020;1. 有&#x0020;</text>
+            </lyric>
+            <lyric number="2">
+               <text>(2. 有)</text>
+            </lyric>
+            <lyric number="3">
+               <text>(3. 有)</text>
             </lyric>
          </note>
          <backup>
