@@ -1446,7 +1446,7 @@
          <barline location="right">
             <bar-style>light-heavy</bar-style>
             <ending number="1, 2" type="stop" />
-            <repeat direction="backward" />
+            <repeat direction="backward" times="3" />
          </barline>
       </measure>
       <measure number="18">
@@ -2565,7 +2565,7 @@
          </note>
          <barline location="right">
             <bar-style>light-heavy</bar-style>
-            <repeat direction="backward" />
+            <repeat direction="backward" times="3" />
          </barline>
       </measure>
       <measure number="18">
