@@ -1,0 +1,3521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score-partwise
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+   xmlns="http://www.musicxml.org/xsd/MusicXML"
+
+   xsi:schemaLocation="
+      http://www.musicxml.org/xsd/MusicXML
+      https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
+
+   version="4.0">
+  <work>
+    <work-title>奉行真道</work-title>
+    </work>
+  <identification>
+    <creator type="composer">威尔士传统曲调</creator>
+    <creator type="lyricist">霍显炜 罗炳良合译</creator>
+    <encoding>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-10-29</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.532</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1818.74</page-height>
+      <page-width>1285.98</page-width>
+      <page-margins type="even">
+        <left-margin>73.4844</left-margin>
+        <right-margin>97.9791</right-margin>
+        <top-margin>73.4844</top-margin>
+        <bottom-margin>73.4844</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>97.9791</left-margin>
+        <right-margin>73.4844</right-margin>
+        <top-margin>73.4844</top-margin>
+        <bottom-margin>73.4844</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="642.988" default-y="1745.25" justify="center" valign="top" font-family="微软雅黑" font-size="22">奉行真道</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1212.49" default-y="1645.25" justify="right" valign="bottom" font-family="微软雅黑">威尔士传统曲调</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>lyricist</credit-type>
+    <credit-words default-x="97.9791" default-y="1645.25" justify="left" valign="bottom" font-family="微软雅黑">霍显炜 罗炳良合译</credit-words>
+    </credit>
+  <part-list>
+    <part-group type="start" number="1">
+      <group-symbol>bracket</group-symbol>
+      </part-group>
+    <score-part id="P1">
+      <part-name print-object="no">Women</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name>Women</instrument-name>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P2">
+      <part-name print-object="no">Men</part-name>
+      <score-instrument id="P2-I1">
+        <instrument-name>Men</instrument-name>
+        </score-instrument>
+      <midi-device id="P2-I1" port="1"></midi-device>
+      <midi-instrument id="P2-I1">
+        <midi-channel>3</midi-channel>
+        <midi-program>53</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <part-group type="stop" number="1"/>
+    </part-list>
+  <part id="P1">
+    <measure number="0" implicit="yes" width="141.13">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>56.18</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>1</fifths>
+          </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no" default-x="-37.68" relative-y="20.00">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>94</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="94"/>
+        </direction>
+      <note default-x="103.25" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">齐</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">颂</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="1" width="128.91">
+      <note default-x="17.26" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">心</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">赞</text>
+          </lyric>
+        </note>
+      <note default-x="48.44" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">承</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">感</text>
+          </lyric>
+        </note>
+      <note default-x="79.62" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">认</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">恩</text>
+          </lyric>
+        </note>
+      <note default-x="99.11" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="2" width="135.80">
+      <note default-x="17.69" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">献</text>
+          </lyric>
+        </note>
+      <note default-x="51.33" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.31" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">名，</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">呈</text>
+          </lyric>
+        </note>
+      <note default-x="84.98" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">领</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">父</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="3" width="135.62">
+      <note default-x="17.26" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">受</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">神</text>
+          </lyric>
+        </note>
+      <note default-x="48.06" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">祝</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">永</text>
+          </lyric>
+        </note>
+      <note default-x="67.32" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="86.57" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">福</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">活</text>
+          </lyric>
+        </note>
+      <note default-x="105.82" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="4" width="135.09">
+      <note default-x="17.47" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">差</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">上</text>
+          </lyric>
+        </note>
+      <note default-x="50.93" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="8.87" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">谴，</text>
+          </lyric>
+        <lyric number="2" default-x="9.31" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主，</text>
+          </lyric>
+        </note>
+      <note default-x="84.38" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">神</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">我</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="5" width="136.05">
+      <note default-x="17.69" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">众</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">们</text>
+          </lyric>
+        </note>
+      <note default-x="48.49" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">子</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">一</text>
+          </lyric>
+        </note>
+      <note default-x="67.75" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="87.00" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">民</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">起</text>
+          </lyric>
+        </note>
+      <note default-x="106.26" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="6" width="122.03">
+      <note default-x="17.26" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">出</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">面</text>
+          </lyric>
+        </note>
+      <note default-x="51.58" default-y="-50.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.09" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">发，</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">对</text>
+          </lyric>
+        </note>
+      <note default-x="85.90" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">离</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">每</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="7" width="123.70">
+      <note default-x="17.69" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">开</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">天</text>
+          </lyric>
+        </note>
+      <note default-x="57.43" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">的</text>
+          </lyric>
+        </note>
+      <note default-x="89.22" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-53.11" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">圣</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-79.04" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">事</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="8" width="162.73">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>6.18</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>85.00</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="81.12" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="8.87" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">殿，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">务，</text>
+          </lyric>
+        </note>
+      <note default-x="128.24" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">享</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">随</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="9" width="132.29">
+      <note default-x="17.26" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">受</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">时</text>
+          </lyric>
+        </note>
+      <note default-x="49.73" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">灵</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">分</text>
+          </lyric>
+        </note>
+      <note default-x="82.20" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">宴</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">享</text>
+          </lyric>
+        </note>
+      <note default-x="102.49" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="10" width="138.93">
+      <note default-x="17.69" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">完</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">信</text>
+          </lyric>
+        </note>
+      <note default-x="52.53" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.09" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">毕，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">仰，</text>
+          </lyric>
+        </note>
+      <note default-x="87.36" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">善</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">爱</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="11" width="140.61">
+      <note default-x="18.12" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">德</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">中</text>
+          </lyric>
+        </note>
+      <note default-x="50.36" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">将</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">互</text>
+          </lyric>
+        </note>
+      <note default-x="70.51" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="90.66" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">要</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">相</text>
+          </lyric>
+        </note>
+      <note default-x="110.81" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="12" width="138.22">
+      <note default-x="17.47" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">伸</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">关</text>
+          </lyric>
+        </note>
+      <note default-x="52.12" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.31" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">延，</text>
+          </lyric>
+        <lyric number="2" default-x="9.31" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">心，</text>
+          </lyric>
+        </note>
+      <note default-x="86.77" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">聚</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">肢</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="13" width="139.93">
+      <note default-x="17.69" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">会</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">体</text>
+          </lyric>
+        </note>
+      <note default-x="49.84" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">领</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">真</text>
+          </lyric>
+        </note>
+      <note default-x="69.94" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="90.04" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">受</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">诚</text>
+          </lyric>
+        </note>
+      <note default-x="110.13" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="14" width="128.29">
+      <note default-x="17.90" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">教</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">相</text>
+          </lyric>
+        </note>
+      <note default-x="54.10" default-y="-50.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.09" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">训，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">待，</text>
+          </lyric>
+        </note>
+      <note default-x="90.29" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">生</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">遍</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="15" width="127.33">
+      <note default-x="17.69" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">活</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">万</text>
+          </lyric>
+        </note>
+      <note default-x="59.17" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">中</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">族</text>
+          </lyric>
+        </note>
+      <note default-x="92.35" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">实</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">万</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="16" width="175.11">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>6.18</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>85.00</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="81.12" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.09" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">践，</text>
+          </lyric>
+        <lyric number="2" default-x="9.52" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">民，</text>
+          </lyric>
+        </note>
+      <note default-x="125.25" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">圣</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">同</text>
+          </lyric>
+        </note>
+      <note default-x="145.31" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="17" width="140.21">
+      <note default-x="17.69" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">道</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">享</text>
+          </lyric>
+        </note>
+      <note default-x="49.94" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">所</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">丰</text>
+          </lyric>
+        </note>
+      <note default-x="70.10" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="90.25" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">撒</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">富</text>
+          </lyric>
+        </note>
+      <note default-x="110.41" default-y="-5.00">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="18" width="128.13">
+      <note default-x="17.47" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">种</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">恩</text>
+          </lyric>
+        </note>
+      <note default-x="53.76" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="9.09" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">子，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">筵，</text>
+          </lyric>
+        </note>
+      <note default-x="90.05" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">落</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">同</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="19" width="140.70">
+      <note default-x="17.69" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">在</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">随</text>
+          </lyric>
+        </note>
+      <note default-x="50.11" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">饥</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">真</text>
+          </lyric>
+        </note>
+      <note default-x="70.38" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="90.64" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">渴</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">光</text>
+          </lyric>
+        </note>
+      <note default-x="110.91" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="20" width="128.60">
+      <note default-x="17.69" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">心</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">前</text>
+          </lyric>
+        </note>
+      <note default-x="54.06" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="9.95" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">田，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">行，</text>
+          </lyric>
+        </note>
+      <note default-x="90.43" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">必</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">我</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="21" width="140.21">
+      <note default-x="17.69" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">开</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">们</text>
+          </lyric>
+        </note>
+      <note default-x="49.94" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">花</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        </note>
+      <note default-x="70.10" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="90.25" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">结</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">内</text>
+          </lyric>
+        </note>
+      <note default-x="110.41" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="22" width="127.14">
+      <note default-x="17.47" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">果</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">合</text>
+          </lyric>
+        </note>
+      <note default-x="53.43" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.31" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">实，</text>
+          </lyric>
+        <lyric number="2" default-x="9.31" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">一，</text>
+          </lyric>
+        </note>
+      <note default-x="89.38" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">荣</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">共</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="23" width="128.23">
+      <note default-x="17.69" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">神</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">享</text>
+          </lyric>
+        </note>
+      <note default-x="53.94" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">且</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">祂</text>
+          </lyric>
+        </note>
+      <note default-x="90.18" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-50.23" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">益</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-76.16" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">生</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="24" width="162.63">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>6.18</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>85.00</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="81.12" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="9.31" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">人，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">命，</text>
+          </lyric>
+        </note>
+      <note default-x="128.14" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">受</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">愿</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="25" width="131.20">
+      <note default-x="17.26" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">望</text>
+          </lyric>
+        </note>
+      <note default-x="49.31" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">鸿</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">一</text>
+          </lyric>
+        </note>
+      <note default-x="81.37" default-y="-10.00">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">恩</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">切</text>
+          </lyric>
+        </note>
+      <note default-x="101.40" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="26" width="139.33">
+      <note default-x="17.69" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">激</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">生</text>
+          </lyric>
+        </note>
+      <note default-x="52.68" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.09" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">励，</text>
+          </lyric>
+        <lyric number="2" default-x="9.31" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">灵，</text>
+          </lyric>
+        </note>
+      <note default-x="87.67" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">更</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">齐</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="27" width="140.51">
+      <note default-x="18.12" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">被</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">来</text>
+          </lyric>
+        </note>
+      <note default-x="50.33" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">感</text>
+          </lyric>
+        </note>
+      <note default-x="70.46" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="90.59" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">爱</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">谢</text>
+          </lyric>
+        </note>
+      <note default-x="110.72" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="28" width="139.08">
+      <note default-x="17.69" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">结</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">歌</text>
+          </lyric>
+        </note>
+      <note default-x="52.58" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="9.09" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">连，</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">颂，</text>
+          </lyric>
+        </note>
+      <note default-x="87.48" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">努</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">荣</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="29" width="139.58">
+      <note default-x="17.69" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">力</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">耀</text>
+          </lyric>
+        </note>
+      <note default-x="49.72" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">拓</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">归</text>
+          </lyric>
+        </note>
+      <note default-x="69.74" default-y="-25.00">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="89.77" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">展</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        </note>
+      <note default-x="109.79" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="30" width="128.72">
+      <note default-x="17.69" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">神</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">基</text>
+          </lyric>
+        </note>
+      <note default-x="54.10" default-y="-50.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="10.17" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">国,</text>
+          </lyric>
+        <lyric number="2" default-x="9.09" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">督，</text>
+          </lyric>
+        </note>
+      <note default-x="90.51" default-y="-40.00">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">让</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">同</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="31" width="127.27">
+      <note default-x="17.47" default-y="-45.00">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">主</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">高</text>
+          </lyric>
+        </note>
+      <note default-x="59.01" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">旨</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">举</text>
+          </lyric>
+        </note>
+      <note default-x="92.24" default-y="-35.00">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.50" default-y="-52.25" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">实</text>
+          </lyric>
+        <lyric number="2" default-x="6.50" default-y="-78.17" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">圣</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="32" width="281.59">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>6.18</left-margin>
+            <right-margin>826.74</right-margin>
+            </system-margins>
+          <system-distance>85.00</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="81.12" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="11.04" default-y="-40.00" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">现。</text>
+          </lyric>
+        <lyric number="2" default-x="11.25" default-y="-65.92" relative-y="-60.00">
+          <syllabic>single</syllabic>
+          <text font-family="微软雅黑" font-size="10.81">名。</text>
+          </lyric>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P2">
+    <measure number="0" implicit="yes" width="141.13">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>138.85</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>1</fifths>
+          </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+          </clef>
+        </attributes>
+      <note default-x="103.25" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="1" width="128.91">
+      <note default-x="17.26" default-y="-183.85">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="48.44" default-y="-173.85">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="79.62" default-y="-188.85">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="2" width="135.80">
+      <note default-x="17.69" default-y="-183.85">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="51.33" default-y="-188.85">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="84.98" default-y="-193.85">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        </note>
+      <note default-x="106.00" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="3" width="135.62">
+      <note default-x="17.26" default-y="-203.85">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="48.06" default-y="-213.85">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="86.57" default-y="-203.85">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="4" width="135.09">
+      <note default-x="17.47" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="50.93" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="84.38" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        </note>
+      <note default-x="105.29" default-y="-203.85">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="136.05">
+      <note default-x="17.69" default-y="-208.85">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="48.49" default-y="-218.85">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="87.00" default-y="-208.85">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="6" width="122.03">
+      <note default-x="17.26" default-y="-203.85">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="51.58" default-y="-193.85">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="85.90" default-y="-213.85">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="7" width="123.70">
+      <note default-x="17.69" default-y="-208.85">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        </note>
+      <note default-x="37.56" default-y="-203.85">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="57.43" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="89.22" default-y="-198.85">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="8" width="162.73">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>137.98</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="81.12" default-y="-217.98">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="128.24" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="9" width="132.29">
+      <note default-x="17.26" default-y="-182.98">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="49.73" default-y="-172.98">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="82.20" default-y="-187.98">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="10" width="138.93">
+      <note default-x="17.69" default-y="-182.98">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="52.53" default-y="-187.98">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="87.36" default-y="-192.98">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        </note>
+      <note default-x="109.14" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="11" width="140.61">
+      <note default-x="18.12" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="50.36" default-y="-212.98">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="90.66" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="12" width="138.22">
+      <note default-x="17.47" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="52.12" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="86.77" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        </note>
+      <note default-x="108.42" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="13" width="139.93">
+      <note default-x="17.69" default-y="-207.98">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="49.84" default-y="-217.98">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="90.04" default-y="-207.98">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="14" width="128.29">
+      <note default-x="17.90" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="54.10" default-y="-192.98">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.29" default-y="-212.98">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="15" width="127.33">
+      <note default-x="17.69" default-y="-207.98">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        </note>
+      <note default-x="38.43" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="59.17" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="92.35" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="16" width="175.11">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>138.95</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="81.12" default-y="-218.95">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="125.25" default-y="-183.95">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        </note>
+      <note default-x="145.31" default-y="-178.95">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="17" width="140.21">
+      <note default-x="17.69" default-y="-173.95">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="49.94" default-y="-183.95">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.25" default-y="-188.95">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="18" width="128.13">
+      <note default-x="17.47" default-y="-193.95">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="53.76" default-y="-188.95">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.05" default-y="-183.95">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="19" width="140.70">
+      <note default-x="17.69" default-y="-178.95">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="50.11" default-y="-168.95">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.64" default-y="-178.95">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="20" width="128.60">
+      <note default-x="17.69" default-y="-198.95">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="54.06" default-y="-193.95">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.43" default-y="-188.95">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="21" width="140.21">
+      <note default-x="17.69" default-y="-183.95">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="49.94" default-y="-173.95">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.25" default-y="-183.95">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="22" width="127.14">
+      <note default-x="17.47" default-y="-193.95">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="53.43" default-y="-188.95">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="89.38" default-y="-183.95">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="23" width="128.23">
+      <note default-x="17.69" default-y="-178.95">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="53.94" default-y="-178.95">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.18" default-y="-213.95">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="24" width="162.63">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>137.98</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="81.12" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="128.14" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="25" width="131.20">
+      <note default-x="17.26" default-y="-182.98">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="49.31" default-y="-172.98">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="81.37" default-y="-187.98">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="26" width="139.33">
+      <note default-x="17.69" default-y="-182.98">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="52.68" default-y="-187.98">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="87.67" default-y="-192.98">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="1"/>
+          </notations>
+        </note>
+      <note default-x="109.54" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="27" width="140.51">
+      <note default-x="18.12" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="50.33" default-y="-212.98">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="90.59" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="28" width="139.08">
+      <note default-x="17.69" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="52.58" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="87.48" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        </note>
+      <note default-x="109.29" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="29" width="139.58">
+      <note default-x="17.69" default-y="-207.98">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="49.72" default-y="-217.98">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="89.77" default-y="-207.98">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="30" width="128.72">
+      <note default-x="17.69" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      <note default-x="54.10" default-y="-192.98">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="90.51" default-y="-212.98">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        </note>
+      </measure>
+    <measure number="31" width="127.27">
+      <note default-x="17.47" default-y="-207.98">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="start" placement="below" number="1"/>
+          </notations>
+        </note>
+      <note default-x="38.24" default-y="-202.98">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
+        </note>
+      <note default-x="59.01" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="92.24" default-y="-197.98">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="32" width="281.59">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>113.63</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="81.12" default-y="-193.63">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>

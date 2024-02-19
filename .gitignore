@@ -12,6 +12,10 @@
 *.webp
 *.bak
 
+a.musicxml
+b.musicxml
+c.xml
+demo.svg
 Untitled.musicxml
 
 .project
