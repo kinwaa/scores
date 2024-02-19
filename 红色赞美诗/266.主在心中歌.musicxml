@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<score-partwise version="4.0">
+<score-partwise
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+   xmlns="http://www.musicxml.org/xsd/MusicXML"
+
+   xsi:schemaLocation="
+      http://www.musicxml.org/xsd/MusicXML
+      https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
+
+   version="4.0">
 
    <work>
       <work-number>226</work-number>
