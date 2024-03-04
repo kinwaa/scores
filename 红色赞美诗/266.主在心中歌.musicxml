@@ -1451,7 +1451,7 @@
          </note>
          <barline location="right">
             <bar-style>light-heavy</bar-style>
-            <ending number="1, 2" type="stop" />
+            <ending number="1,2" type="stop" />
             <repeat direction="backward" times="3" />
          </barline>
       </measure>
@@ -1499,7 +1499,7 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="1">
-               <text>（阿</text>
+               <text>(阿</text>
             </lyric>
          </note>
          <note>
@@ -1511,7 +1511,7 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="1">
-               <text>们）</text>
+               <text>们)</text>
             </lyric>
          </note>
          <backup>
