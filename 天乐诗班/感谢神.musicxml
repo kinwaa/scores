@@ -79,7 +79,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -102,8 +101,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -130,7 +127,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -142,8 +138,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="1">
@@ -202,7 +196,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>我</text>
@@ -225,7 +218,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>救</text>
@@ -273,7 +265,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -285,7 +276,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="2">
@@ -345,7 +335,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -368,8 +357,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -416,7 +403,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -427,8 +413,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="3">
@@ -486,7 +470,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>富</text>
@@ -509,7 +492,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>预</text>
@@ -557,7 +539,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -568,7 +549,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="4">
@@ -604,7 +584,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -627,8 +606,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -666,7 +643,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -678,8 +654,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="5">
@@ -738,7 +712,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>去</text>
@@ -762,7 +735,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>的</text>
@@ -809,7 +781,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -820,7 +791,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="6">
@@ -881,7 +851,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -904,8 +873,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -953,7 +920,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -965,8 +931,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="7">
@@ -1024,7 +988,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>在</text>
@@ -1047,7 +1010,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>我</text>
@@ -1095,7 +1057,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1107,7 +1068,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="8">
@@ -1145,7 +1105,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -1168,8 +1127,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -1206,7 +1163,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1217,8 +1173,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="9">
@@ -1277,7 +1231,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>温</text>
@@ -1300,7 +1253,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>暖</text>
@@ -1349,7 +1301,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1361,7 +1312,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="10">
@@ -1419,7 +1369,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -1443,8 +1392,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -1492,7 +1439,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1503,8 +1449,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="11">
@@ -1564,7 +1508,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>凉</text>
@@ -1587,7 +1530,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>秋</text>
@@ -1634,7 +1576,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1645,7 +1586,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="12">
@@ -1681,7 +1621,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -1704,8 +1643,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -1742,7 +1679,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1753,8 +1689,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="13">
@@ -1814,7 +1748,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>干</text>
@@ -1837,7 +1770,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>我</text>
@@ -1886,7 +1818,6 @@
             <type>eighth</type>
             <accidental>sharp</accidental>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -1898,7 +1829,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="14">
@@ -1958,7 +1888,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>感</text>
@@ -1982,8 +1911,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>谢</text>
@@ -2030,7 +1957,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2041,8 +1967,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="15">
@@ -2100,7 +2024,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>我</text>
@@ -2123,7 +2046,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
             <lyric number="1">
                <syllabic>single</syllabic>
                <text>安</text>
@@ -2170,7 +2092,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2182,7 +2103,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="16">
@@ -2253,7 +2173,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2264,8 +2183,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>4</duration>
@@ -2281,7 +2198,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2293,8 +2209,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="1">
@@ -2329,7 +2243,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2341,7 +2254,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2379,7 +2291,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2391,7 +2302,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="2">
@@ -2426,7 +2336,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2437,8 +2346,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2473,7 +2380,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2484,8 +2390,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="3">
@@ -2519,7 +2423,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2530,7 +2433,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2565,7 +2467,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2576,7 +2477,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="4">
@@ -2601,7 +2501,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2613,8 +2512,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2641,7 +2538,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2653,8 +2549,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="5">
@@ -2691,7 +2585,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2703,7 +2596,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2740,7 +2632,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2751,7 +2642,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="6">
@@ -2789,7 +2679,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2801,8 +2690,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2840,7 +2727,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2852,8 +2738,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="7">
@@ -2889,7 +2773,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2900,7 +2783,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -2935,7 +2817,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2946,7 +2827,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="8">
@@ -2971,7 +2851,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -2983,8 +2862,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3011,7 +2888,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3022,8 +2898,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="9">
@@ -3060,7 +2934,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3072,7 +2945,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3110,7 +2982,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3122,7 +2993,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="10">
@@ -3159,7 +3029,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3171,8 +3040,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3210,7 +3077,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3222,8 +3088,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="11">
@@ -3260,7 +3124,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3272,7 +3135,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3308,7 +3170,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3320,7 +3181,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="12">
@@ -3344,7 +3204,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3355,8 +3214,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3381,7 +3238,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3392,8 +3248,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="13">
@@ -3429,7 +3283,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3440,7 +3293,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3475,7 +3327,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3486,7 +3337,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="14">
@@ -3523,7 +3373,6 @@
             <type>eighth</type>
             <dot />
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3535,8 +3384,6 @@
             <voice>1</voice>
             <type>16th</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3574,7 +3421,6 @@
             <type>eighth</type>
             <dot />
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3586,8 +3432,6 @@
             <voice>2</voice>
             <type>16th</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
-            <beam number="2">backward hook</beam>
          </note>
       </measure>
       <measure number="15">
@@ -3623,7 +3467,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3634,7 +3477,6 @@
             <voice>1</voice>
             <type>eighth</type>
             <stem>up</stem>
-            <beam number="1">end</beam>
          </note>
          <backup>
             <duration>12</duration>
@@ -3669,7 +3511,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">begin</beam>
          </note>
          <note>
             <pitch>
@@ -3680,7 +3521,6 @@
             <voice>2</voice>
             <type>eighth</type>
             <stem>down</stem>
-            <beam number="1">end</beam>
          </note>
       </measure>
       <measure number="16">
