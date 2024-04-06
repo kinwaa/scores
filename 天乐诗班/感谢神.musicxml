@@ -6,21 +6,24 @@
       http://www.musicxml.org/xsd/MusicXML
       https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
    version="4.0">
+
    <work>
       <work-title>感谢神</work-title>
    </work>
+
    <identification>
       <creator type="composer">John A. Hultman</creator>
       <creator type="lyricist">August L. Storm</creator>
       <rights>天乐诗班 2024年4月7日 献</rights>
    </identification>
+
    <part-list>
       <part-group number="1" type="start">
          <group-symbol>bracket</group-symbol>
+         <group-barline>no</group-barline>
       </part-group>
       <score-part id="P1">
-         <part-name>S
-A</part-name>
+         <part-name>S&#x000A;A</part-name>
          <score-instrument id="P1-I1">
             <instrument-name>Women</instrument-name>
             <instrument-sound>voice.female</instrument-sound>
@@ -34,8 +37,7 @@ A</part-name>
          </midi-instrument>
       </score-part>
       <score-part id="P2">
-         <part-name>T
-B</part-name>
+         <part-name>T&#x000A;B</part-name>
          <score-instrument id="P2-I1">
             <instrument-name>Men</instrument-name>
             <instrument-sound>voice.male</instrument-sound>
@@ -50,9 +52,9 @@ B</part-name>
       </score-part>
       <part-group number="1" type="stop" />
    </part-list>
+
    <part id="P1">
       <measure implicit="yes" number="0">
-
          <attributes>
             <divisions>4</divisions>
             <key>
@@ -2227,7 +2229,6 @@ B</part-name>
    </part>
    <part id="P2">
       <measure implicit="yes" number="0">
-
          <attributes>
             <divisions>4</divisions>
             <key>
