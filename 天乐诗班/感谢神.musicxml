@@ -8,12 +8,13 @@
    version="4.0">
 
    <work>
+      <work-number>Thanks to God for my redeemer</work-number><!-- 当作副标题 -->
       <work-title>感谢神</work-title>
    </work>
 
    <identification>
       <creator type="composer">John A. Hultman</creator>
-      <creator type="lyricist">August L. Storm</creator>
+      <creator type="lyricist">August L. Storm词 (1891)&#x000A;Carl E. Backstrom英译 (1931)</creator>
       <rights>天乐诗班 2024年4月7日 献</rights>
    </identification>
 
