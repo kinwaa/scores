@@ -7,6 +7,12 @@
       https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
    version="4.0">
 
+   <!--
+      - 在4、8小节主动换行
+      - 最后一小节的歌词改为第一段
+      - 谱线间距用2mm
+      - 符杠按四分音符断开
+     -->
    <work>
       <work-number>Father mercy almighty</work-number><!-- 当作副标题 -->
       <work-title>慈悲圣父歌</work-title>
@@ -15,6 +21,7 @@
    <identification>
       <creator type="composer">中国传统曲调&#x000A;B. Wiant曲&#x000A;范天祥改编 (1931)</creator>
       <creator type="lyricist">赵紫宸词 (1931)</creator>
+      <source>https://musescore.com/user/70542124/scores/15311461</source>
    </identification>
 
    <part-list>
@@ -79,23 +86,18 @@
             <type>quarter</type>
             <dot />
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>1.全</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>2.全</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>3.全</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>4.全</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>5.全</text>
             </lyric>
          </note>
@@ -108,23 +110,18 @@
             <voice>1</voice>
             <type>eighth</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>能</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>能</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>能</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>能</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>能</text>
             </lyric>
          </note>
@@ -140,23 +137,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>慈</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>慈</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>慈</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>慈</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>慈</text>
             </lyric>
          </note>
@@ -184,23 +176,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>悲</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>悲</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>悲</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>悲</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>悲</text>
             </lyric>
          </note>
@@ -271,23 +258,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>圣</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>圣</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>圣</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>圣</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>圣</text>
             </lyric>
          </note>
@@ -315,23 +297,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>天</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>天</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>天</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>天</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>天</text>
             </lyric>
          </note>
@@ -356,23 +333,18 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>父，</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>父，</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>父，</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>父，</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>父，</text>
             </lyric>
          </note>
@@ -421,23 +393,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>我</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>我</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>教</text>
             </lyric>
          </note>
@@ -465,23 +432,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>们</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>们</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>要</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>救</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>我</text>
             </lyric>
          </note>
@@ -506,23 +468,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>抬</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>感</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>感</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>苦</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>爱</text>
             </lyric>
          </note>
@@ -535,23 +492,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>头</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>谢</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>化</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>难</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>国</text>
             </lyric>
          </note>
@@ -610,23 +562,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>见</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>我</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>爱</text>
             </lyric>
          </note>
@@ -654,23 +601,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>恩</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>洪</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>们</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>爱</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>同</text>
             </lyric>
          </note>
@@ -695,23 +637,18 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>光，</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>恩，</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>心，</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>怜，</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>胞，</text>
             </lyric>
          </note>
@@ -771,23 +708,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>见</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>所</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>恳</text>
             </lyric>
          </note>
@@ -800,23 +732,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>差</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>以</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>的</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>求</text>
             </lyric>
          </note>
@@ -829,23 +756,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>荣</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>圣</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>差</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>审</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
          </note>
@@ -858,23 +780,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>耀</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>子</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>遣</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>判</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>常</text>
             </lyric>
          </note>
@@ -932,23 +849,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>象</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>主</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>保</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>最</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>帮</text>
             </lyric>
          </note>
@@ -976,23 +888,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>日</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>耶</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>惠</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>公</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>助</text>
             </lyric>
          </note>
@@ -1017,23 +924,18 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>月，</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>稣，</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>师，</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>道，</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>我，</text>
             </lyric>
          </note>
@@ -1081,23 +983,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>见</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>舍</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>教</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>甘</text>
             </lyric>
          </note>
@@ -1125,23 +1022,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>你</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>生</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>我</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>的</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>心</text>
             </lyric>
          </note>
@@ -1166,23 +1058,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>仁</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>流</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>心</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>救</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>乐</text>
             </lyric>
          </note>
@@ -1195,23 +1082,18 @@
             <voice>1</voice>
             <type>quarter</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>慈</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>血</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>志</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>法</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>意</text>
             </lyric>
          </note>
@@ -1298,23 +1180,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>象</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>救</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>日</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>最</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>负</text>
             </lyric>
          </note>
@@ -1342,23 +1219,18 @@
                <slur type="start" />
             </notations>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>海</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>世</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>日</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>完</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>辛</text>
             </lyric>
          </note>
@@ -1383,23 +1255,18 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="1">
-               <syllabic>single</syllabic>
                <text>洋。</text>
             </lyric>
             <lyric number="2">
-               <syllabic>single</syllabic>
                <text>人。</text>
             </lyric>
             <lyric number="3">
-               <syllabic>single</syllabic>
                <text>新。</text>
             </lyric>
             <lyric number="4">
-               <syllabic>single</syllabic>
                <text>全。</text>
             </lyric>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>劳。</text>
             </lyric>
          </note>
@@ -1447,7 +1314,6 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>(阿</text>
             </lyric>
          </note>
@@ -1460,7 +1326,6 @@
             <voice>1</voice>
             <type>half</type>
             <lyric number="5">
-               <syllabic>single</syllabic>
                <text>们)</text>
             </lyric>
          </note>
