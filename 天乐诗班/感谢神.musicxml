@@ -1191,7 +1191,7 @@
                <text>感</text>
             </lyric>
             <lyric number="2">
-               <text>在</text>
+               <text>感</text>
             </lyric>
             <lyric number="3">
                <text>感</text>
@@ -1210,7 +1210,7 @@
                <text>谢</text>
             </lyric>
             <lyric number="2">
-               <text>绝</text>
+               <text>谢</text>
             </lyric>
             <lyric number="3">
                <text>谢</text>
@@ -1273,7 +1273,7 @@
                <text>神</text>
             </lyric>
             <lyric number="2">
-               <text>望</text>
+               <text>神</text>
             </lyric>
             <lyric number="3">
                <text>神</text>
@@ -1291,7 +1291,7 @@
                <text>凄</text>
             </lyric>
             <lyric number="2">
-               <text>里</text>
+               <text>绝</text>
             </lyric>
             <lyric number="3">
                <text>属</text>
@@ -1310,7 +1310,7 @@
                <text>凉</text>
             </lyric>
             <lyric number="2">
-               <text>得</text>
+               <text>望</text>
             </lyric>
             <lyric number="3">
                <text>天</text>
@@ -1328,7 +1328,7 @@
                <text>秋</text>
             </lyric>
             <lyric number="2">
-               <text>安</text>
+               <text>得</text>
             </lyric>
             <lyric number="3">
                <text>平</text>
@@ -1611,6 +1611,9 @@
             <duration>4</duration>
             <voice>1</voice>
             <type>quarter</type>
+            <notations>
+               <fermata />
+            </notations>
             <lyric number="1">
                <text>泪，</text>
             </lyric>
@@ -1638,7 +1641,7 @@
                <text>感</text>
             </lyric>
             <lyric number="3">
-               <text>要</text>
+               <text>感</text>
             </lyric>
          </note>
          <note>
@@ -1657,7 +1660,7 @@
                <text>谢</text>
             </lyric>
             <lyric number="3">
-               <text>感</text>
+               <text>谢</text>
             </lyric>
          </note>
          <backup>
@@ -1680,6 +1683,9 @@
             <duration>4</duration>
             <voice>2</voice>
             <type>quarter</type>
+            <notations>
+               <fermata type="inverted" />
+            </notations>
          </note>
          <note>
             <pitch>
@@ -1718,7 +1724,7 @@
                <text>神</text>
             </lyric>
             <lyric number="3">
-               <text>谢</text>
+               <text>神</text>
             </lyric>
          </note>
          <note>
@@ -2964,6 +2970,9 @@
             <duration>4</duration>
             <voice>1</voice>
             <type>quarter</type>
+            <notations>
+               <fermata />
+            </notations>
          </note>
          <note>
             <pitch>
@@ -3008,6 +3017,9 @@
             <duration>4</duration>
             <voice>2</voice>
             <type>quarter</type>
+            <notations>
+               <fermata type="inverted" />
+            </notations>
          </note>
          <note>
             <pitch>
