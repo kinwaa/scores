@@ -89,6 +89,7 @@ public class ScoreToastApplication implements CommandLineRunner {
       cleanAttributes(xpath, doc, "//score-partwise/part/measure", "width");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note", "default-x", "default-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/lyric", "default-x", "default-y", "relative-y");
+      cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/fermata", "default-y", "relative-y");
 
       TransformerFactory txFactory = TransformerFactory.newInstance();
       Transformer transformer = txFactory.newTransformer();
