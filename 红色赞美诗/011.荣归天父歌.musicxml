@@ -7,7 +7,14 @@
       https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
    version="4.0">
 
-   <work>
+   <!--
+      - 页码：11
+      - 字号比默认减小1
+      - 谱线间距1.74mm
+      - 主歌部分小节宽度缩三下
+      - 副歌部分小节宽度缩两下
+     -->
+     <work>
       <work-number>To God be the glory</work-number>
       <work-title>荣归天父歌</work-title>
    </work>
