@@ -83,7 +83,7 @@ public class ScoreToastApplication implements CommandLineRunner {
       cleanNodes(xpath, doc, "//score-partwise/defaults");
       cleanNodes(xpath, doc, "//score-partwise/credit");
       cleanNodes(xpath, doc, "//score-partwise/part/measure/print");
-      cleanNodes(xpath, doc, "//score-partwise/part/measure/note/beam");
+      // score-partwise/part/measure/note/beam不能删，会影响符尾的连接
       cleanNodes(xpath, doc, "//score-partwise/part/measure/note/stem");
       cleanNodes(xpath, doc, "//score-partwise/part/measure/note/lyric/syllabic");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure", "width");
