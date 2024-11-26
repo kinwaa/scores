@@ -17,8 +17,8 @@
 <group-symbol>square</group-symbol>
 </part-group>
 <score-part id="P1">
-<part-name>S A</part-name>
-<part-abbreviation>S A</part-abbreviation>
+<part-name>S&#x000A;A</part-name>
+<part-abbreviation>S&#x000A;A</part-abbreviation>
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
@@ -32,8 +32,8 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
-<part-name>T B</part-name>
-<part-abbreviation>T B</part-abbreviation>
+<part-name>T&#x000A;B</part-name>
+<part-abbreviation>T&#x000A;B</part-abbreviation>
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>
