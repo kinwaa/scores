@@ -3382,72 +3382,9 @@
 </measure>
 <measure number="50">
 <note>
-<pitch>
-<step>D</step>
-<alter>-1</alter>
-<octave>5</octave>
-</pitch>
-<duration>2</duration>
+<rest measure="yes" />
+<duration>16</duration>
 <voice>1</voice>
-<type>eighth</type>
-<beam number="1">begin</beam>
-<lyric number="1">
-<text>听</text>
-</lyric>
-</note>
-<note>
-<pitch>
-<step>B</step>
-<alter>-1</alter>
-<octave>4</octave>
-</pitch>
-<duration>2</duration>
-<voice>1</voice>
-<type>eighth</type>
-<beam number="1">end</beam>
-<lyric number="1">
-<text>啊，</text>
-</lyric>
-</note>
-<note>
-<rest />
-<duration>4</duration>
-<voice>1</voice>
-<type>quarter</type>
-</note>
-<note>
-<pitch>
-<step>C</step>
-<alter>-1</alter>
-<octave>5</octave>
-</pitch>
-<duration>2</duration>
-<voice>1</voice>
-<type>eighth</type>
-<beam number="1">begin</beam>
-<lyric number="1">
-<text>听</text>
-</lyric>
-</note>
-<note>
-<pitch>
-<step>A</step>
-<alter>-1</alter>
-<octave>4</octave>
-</pitch>
-<duration>2</duration>
-<voice>1</voice>
-<type>eighth</type>
-<beam number="1">end</beam>
-<lyric number="1">
-<text>啊，</text>
-</lyric>
-</note>
-<note>
-<rest />
-<duration>4</duration>
-<voice>1</voice>
-<type>quarter</type>
 </note>
 </measure>
 <measure number="51">
@@ -5918,6 +5855,9 @@
 <voice>1</voice>
 <type>eighth</type>
 <beam number="1">begin</beam>
+<lyric number="1">
+<text>听</text>
+</lyric>
 </note>
 <note>
 <pitch>
@@ -5929,6 +5869,9 @@
 <voice>1</voice>
 <type>eighth</type>
 <beam number="1">end</beam>
+<lyric number="1">
+<text>啊，</text>
+</lyric>
 </note>
 <note>
 <rest />
@@ -5946,6 +5889,9 @@
 <voice>1</voice>
 <type>eighth</type>
 <beam number="1">begin</beam>
+<lyric number="1">
+<text>听</text>
+</lyric>
 </note>
 <note>
 <pitch>
@@ -5957,6 +5903,9 @@
 <voice>1</voice>
 <type>eighth</type>
 <beam number="1">end</beam>
+<lyric number="1">
+<text>啊，</text>
+</lyric>
 </note>
 <note>
 <rest />
