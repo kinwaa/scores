@@ -12,9 +12,7 @@
 <part-list>
 <part-group number="1" type="start">
 <group-symbol>bracket</group-symbol>
-</part-group>
-<part-group number="2" type="start">
-<group-symbol>square</group-symbol>
+<group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
 <part-name>S&#x000A;A</part-name>
@@ -46,8 +44,10 @@
 <pan>0</pan>
 </midi-instrument>
 </score-part>
-<part-group number="2" type="stop" />
 <part-group number="1" type="stop" />
+<part-group number="2" type="start">
+<group-symbol>square</group-symbol>
+</part-group>
 <score-part id="P3">
 <part-name>Piano</part-name>
 <part-abbreviation>Pno.</part-abbreviation>
@@ -63,6 +63,7 @@
 <pan>0</pan>
 </midi-instrument>
 </score-part>
+<part-group number="2" type="stop" />
 </part-list>
 <part id="P1">
 <measure number="1">
