@@ -214,7 +214,7 @@
 <text>爱</text>
 </lyric>
 <lyric number="4">
-<text>努</text>
+<text>势</text>
 </lyric>
 </note>
 <note>
@@ -742,7 +742,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <lyric number="1">
-<text>发，</text>
+<text>示，</text>
 </lyric>
 <lyric number="2">
 <text>圣，</text>
@@ -2269,6 +2269,16 @@
 </note>
 <note>
 <pitch>
+<step>G</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<chord />
+<pitch>
 <step>B</step>
 <octave>3</octave>
 </pitch>
@@ -2277,6 +2287,17 @@
 <type>quarter</type>
 </note>
 <note>
+<pitch>
+<step>G</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>half</type>
+<dot/>
+</note>
+<note>
+<chord />
 <pitch>
 <step>B</step>
 <octave>3</octave>
@@ -2835,6 +2856,16 @@
 </note>
 <note>
 <pitch>
+<step>G</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<chord />
+<pitch>
 <step>B</step>
 <octave>3</octave>
 </pitch>
@@ -2843,6 +2874,17 @@
 <type>quarter</type>
 </note>
 <note>
+<pitch>
+<step>G</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>half</type>
+<dot/>
+</note>
+<note>
+<chord />
 <pitch>
 <step>B</step>
 <octave>3</octave>
