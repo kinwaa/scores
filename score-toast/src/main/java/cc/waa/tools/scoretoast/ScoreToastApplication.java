@@ -1,11 +1,15 @@
 package cc.waa.tools.scoretoast;
 
+import static java.lang.System.lineSeparator;
 import static java.util.Arrays.asList;
 import static java.util.Arrays.stream;
 import static javax.xml.transform.OutputKeys.OMIT_XML_DECLARATION;
 import static javax.xml.xpath.XPathConstants.NODESET;
+import static org.apache.commons.lang3.StringUtils.joinWith;
 
 import java.io.File;
+import java.io.FileWriter;
+import java.io.StringWriter;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.transform.Transformer;
@@ -27,6 +31,17 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @SpringBootApplication
 public class ScoreToastApplication implements CommandLineRunner {
+
+   private static final String XML = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>";
+
+   private static final String HEAD = joinWith(lineSeparator(),
+         "<score-partwise",
+         "   xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"",
+         "   xmlns=\"http://www.musicxml.org/xsd/MusicXML\"",
+         "   xsi:schemaLocation=\"",
+         "      http://www.musicxml.org/xsd/MusicXML",
+         "      https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd\"",
+         "   version=\"4.0\">");
 
    private DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
 
@@ -78,9 +93,31 @@ public class ScoreToastApplication implements CommandLineRunner {
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/lyric", "default-x", "default-y", "relative-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/fermata", "default-y", "relative-y");
 
-      Transformer transformer = this.txFactory.newTransformer();
-      transformer.setOutputProperty(OMIT_XML_DECLARATION, "yes");
-      transformer.transform(new DOMSource(doc), new StreamResult(file));
+      StringBuilder content = new StringBuilder();
+
+      try (StringWriter out = new StringWriter()) {
+         Transformer transformer = this.txFactory.newTransformer();
+         transformer.setOutputProperty(OMIT_XML_DECLARATION, "yes");
+         transformer.transform(new DOMSource(doc), new StreamResult(out));
+
+         out.flush();
+         content.append(out.toString());
+      }
+
+      final int start = content.indexOf("<score-partwise");
+      final int end = content.indexOf(">", start + 15);
+      content.delete(start, end + 1);
+      content.insert(start, HEAD);
+
+      if (content.indexOf("<?xml") != 0) { // 如果没有XML头
+         content.insert(0, lineSeparator());
+         content.insert(0, XML);
+      }
+
+      try (FileWriter out = new FileWriter(file)) {
+         out.write(content.toString());
+         out.flush();
+      }
    }
 
    @Override
