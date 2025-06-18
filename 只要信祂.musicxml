@@ -16,7 +16,7 @@
    </identification>
 
    <part-list>
-      <part-group type="start" number="1">
+      <part-group number="1" type="start">
          <group-symbol>bracket</group-symbol>
          <group-barline>no</group-barline>
       </part-group>
@@ -48,7 +48,7 @@
             <pan>0</pan>
          </midi-instrument>
       </score-part>
-      <part-group type="stop" number="1" />
+      <part-group number="1" type="stop" />
    </part-list>
 
    <part id="P1">
