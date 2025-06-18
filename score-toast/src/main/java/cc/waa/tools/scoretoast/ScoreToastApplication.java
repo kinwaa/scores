@@ -1,13 +1,13 @@
 package cc.waa.tools.scoretoast;
 
+import static java.util.Arrays.asList;
 import static java.util.Arrays.stream;
+import static javax.xml.transform.OutputKeys.OMIT_XML_DECLARATION;
 import static javax.xml.xpath.XPathConstants.NODESET;
 
 import java.io.File;
 
-import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
@@ -27,6 +27,12 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @SpringBootApplication
 public class ScoreToastApplication implements CommandLineRunner {
+
+   private DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
+
+   private XPathFactory pathFactory = XPathFactory.newInstance();
+
+   private TransformerFactory txFactory = TransformerFactory.newInstance();
 
    private void cleanNodes(XPath xpath, Document doc, String path) throws Exception {
       NodeList list = (NodeList) xpath.evaluate(path, doc, NODESET);
@@ -54,29 +60,9 @@ public class ScoreToastApplication implements CommandLineRunner {
       }
    }
 
-   @Override
-   public void run(String... args) throws Exception {
-      final File file;
-
-      if (args == null || args.length <= 0) {
-         log.error("no arguments");
-
-         return;
-      }
-
-      if ((file = new File(args[0])) == null || !file.exists()) {
-         log.error("file not exists");
-
-         return;
-      }
-
-      DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-      DocumentBuilder builder = factory.newDocumentBuilder();
-
-      Document doc = builder.parse(file);
-
-      XPathFactory pathFactory = XPathFactory.newInstance();
-      XPath xpath = pathFactory.newXPath();
+   public void checkFile(final File file) throws Exception {
+      Document doc = this.builderFactory.newDocumentBuilder().parse(file);
+      XPath xpath = this.pathFactory.newXPath();
 
       cleanNodes(xpath, doc, "//score-partwise/identification/encoding");
       cleanNodes(xpath, doc, "//score-partwise/identification/source");
@@ -92,9 +78,21 @@ public class ScoreToastApplication implements CommandLineRunner {
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/lyric", "default-x", "default-y", "relative-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/fermata", "default-y", "relative-y");
 
-      TransformerFactory txFactory = TransformerFactory.newInstance();
-      Transformer transformer = txFactory.newTransformer();
-      transformer.setOutputProperty(OutputKeys.OMIT_XML_DECLARATION, "yes");
+      Transformer transformer = this.txFactory.newTransformer();
+      transformer.setOutputProperty(OMIT_XML_DECLARATION, "yes");
       transformer.transform(new DOMSource(doc), new StreamResult(file));
+   }
+
+   @Override
+   public void run(String... args) {
+      asList(new File(".").listFiles(d -> d.getName().endsWith(".musicxml"))).parallelStream().forEach(f -> {
+         try {
+            checkFile(f);
+
+            log.info("成功处理文件[{}]", f.getAbsolutePath());
+         } catch (Exception e) {
+            log.error("处理文件[{}]出错", f.getAbsolutePath(), e);
+         }
+      });
    }
 }
