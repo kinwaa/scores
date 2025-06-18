@@ -80,7 +80,7 @@ public class ScoreToastApplication implements CommandLineRunner {
       XPath xpath = this.pathFactory.newXPath();
 
       cleanNodes(xpath, doc, "//score-partwise/identification/encoding");
-      cleanNodes(xpath, doc, "//score-partwise/identification/source");
+      // cleanNodes(xpath, doc, "//score-partwise/identification/source"); // 这个保留会好些
       cleanNodes(xpath, doc, "//score-partwise/defaults");
       cleanNodes(xpath, doc, "//score-partwise/credit");
       cleanNodes(xpath, doc, "//score-partwise/part/measure/print");
@@ -104,6 +104,7 @@ public class ScoreToastApplication implements CommandLineRunner {
          content.append(out.toString());
       }
 
+      // 换回标准的语法
       final int start = content.indexOf("<score-partwise");
       final int end = content.indexOf(">", start + 15);
       content.delete(start, end + 1);
@@ -112,6 +113,15 @@ public class ScoreToastApplication implements CommandLineRunner {
       if (content.indexOf("<?xml") != 0) { // 如果没有XML头
          content.insert(0, lineSeparator());
          content.insert(0, XML);
+      }
+
+      // 让无内容的标签关闭得好看点
+      int cur = 0;
+      while ((cur = content.indexOf("/>", cur + 2)) > 0) {
+         if (content.charAt(cur - 1) != ' ') {
+            content.insert(cur, " ");
+            cur++;
+         }
       }
 
       try (FileWriter out = new FileWriter(file)) {

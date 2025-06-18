@@ -15,8 +15,6 @@
 <group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
-<part-name>S&#x000A;A</part-name>
-<part-abbreviation>S&#x000A;A</part-abbreviation>
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
@@ -30,8 +28,6 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
-<part-name>T&#x000A;B</part-name>
-<part-abbreviation>T&#x000A;B</part-abbreviation>
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>
@@ -45,12 +41,7 @@
 </midi-instrument>
 </score-part>
 <part-group number="1" type="stop" />
-<part-group number="2" type="start">
-<group-symbol>square</group-symbol>
-</part-group>
 <score-part id="P3">
-<part-name>Piano</part-name>
-<part-abbreviation>Pno.</part-abbreviation>
 <score-instrument id="P3-I1">
 <instrument-name>Piano</instrument-name>
 <instrument-sound>keyboard.piano</instrument-sound>
@@ -63,7 +54,6 @@
 <pan>0</pan>
 </midi-instrument>
 </score-part>
-<part-group number="2" type="stop" />
 </part-list>
 <part id="P1">
 <measure number="1">

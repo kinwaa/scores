@@ -19,13 +19,11 @@
 <group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
-<part-name>S&#x000A;A</part-name>
-<part-abbreviation>S&#x000A;A</part-abbreviation>
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
 </score-instrument>
-<midi-device id="P1-I1" port="1"/>
+<midi-device id="P1-I1" port="1" />
 <midi-instrument id="P1-I1">
 <midi-channel>1</midi-channel>
 <midi-program>53</midi-program>
@@ -34,13 +32,11 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
-<part-name>T&#x000A;B</part-name>
-<part-abbreviation>T&#x000A;B</part-abbreviation>
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>
 </score-instrument>
-<midi-device id="P2-I1" port="1"/>
+<midi-device id="P2-I1" port="1" />
 <midi-instrument id="P2-I1">
 <midi-channel>3</midi-channel>
 <midi-program>53</midi-program>
@@ -48,7 +44,7 @@
 <pan>0</pan>
 </midi-instrument>
 </score-part>
-<part-group number="1" type="stop"/>
+<part-group number="1" type="stop" />
 </part-list>
 <part id="P1">
 <measure number="1">
@@ -162,7 +158,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>诚，</text>
 </lyric>
@@ -202,7 +198,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -491,7 +487,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>净，</text>
 </lyric>
@@ -532,7 +528,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -661,7 +657,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur number="1" type="start"/>
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -675,7 +671,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur number="1" type="stop"/>
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -689,7 +685,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>心；</text>
 </lyric>
@@ -701,7 +697,7 @@
 </lyric>
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>1</voice>
 <type>quarter</type>
@@ -717,10 +713,10 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>2</voice>
 <type>quarter</type>
@@ -823,7 +819,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>强，</text>
 </lyric>
@@ -863,7 +859,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1150,7 +1146,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>壮，</text>
 </lyric>
@@ -1191,7 +1187,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1250,7 +1246,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>能</text>
 </lyric>
@@ -1310,7 +1306,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1332,7 +1328,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>挡，</text>
 </lyric>
@@ -1344,7 +1340,7 @@
 </lyric>
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>1</voice>
 <type>quarter</type>
@@ -1360,10 +1356,10 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>2</voice>
 <type>quarter</type>
@@ -1467,7 +1463,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>壮，</text>
 </lyric>
@@ -1508,7 +1504,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1567,7 +1563,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>能</text>
 </lyric>
@@ -1627,7 +1623,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1649,7 +1645,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>挡。</text>
 </lyric>
@@ -1661,7 +1657,7 @@
 </lyric>
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>1</voice>
 <type>quarter</type>
@@ -1677,10 +1673,10 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>2</voice>
 <type>quarter</type>
@@ -1831,7 +1827,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1854,7 +1850,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2059,7 +2055,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2081,7 +2077,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2182,10 +2178,10 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>1</voice>
 <type>quarter</type>
@@ -2201,10 +2197,10 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>2</voice>
 <type>quarter</type>
@@ -2280,7 +2276,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2303,7 +2299,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2511,7 +2507,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2533,7 +2529,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2573,7 +2569,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2613,7 +2609,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2634,10 +2630,10 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>1</voice>
 <type>quarter</type>
@@ -2654,10 +2650,10 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>2</voice>
 <type>quarter</type>
@@ -2736,7 +2732,7 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2758,7 +2754,7 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2798,7 +2794,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2838,7 +2834,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>quarter</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2860,10 +2856,10 @@
 <duration>6</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>1</voice>
 <type>quarter</type>
@@ -2879,10 +2875,10 @@
 <duration>6</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
-<rest/>
+<rest />
 <duration>2</duration>
 <voice>2</voice>
 <type>quarter</type>
