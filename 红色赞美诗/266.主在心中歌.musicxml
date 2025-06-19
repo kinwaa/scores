@@ -22,17 +22,14 @@
 </identification>
 
 <part-list>
-<part-group type="start" number="1">
+<part-group number="1" type="start">
 <group-symbol>bracket</group-symbol>
 <group-barline>no</group-barline>
 </part-group>
-<score-part id="P1">
-<part-name>S&#x000A;A</part-name>
-</score-part>
+<score-part id="P1" />
 <score-part id="P2">
-<part-name>T&#x000A;B</part-name>
 </score-part>
-<part-group type="stop" number="1" />
+<part-group number="1" type="stop" />
 </part-list>
 
 <part id="P1">
