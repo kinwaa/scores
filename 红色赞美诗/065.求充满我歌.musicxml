@@ -23,13 +23,11 @@
 <group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
-<part-name>S&#x000A;A</part-name>
-<part-abbreviation>S&#x000A;A</part-abbreviation>
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
 </score-instrument>
-<midi-device id="P1-I1" port="1"/>
+<midi-device id="P1-I1" port="1" />
 <midi-instrument id="P1-I1">
 <midi-channel>1</midi-channel>
 <midi-program>53</midi-program>
@@ -38,13 +36,11 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
-<part-name>T&#x000A;B</part-name>
-<part-abbreviation>T&#x000A;B</part-abbreviation>
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>
 </score-instrument>
-<midi-device id="P2-I1" port="1"/>
+<midi-device id="P2-I1" port="1" />
 <midi-instrument id="P2-I1">
 <midi-channel>3</midi-channel>
 <midi-program>53</midi-program>
@@ -52,7 +48,7 @@
 <pan>0</pan>
 </midi-instrument>
 </score-part>
-<part-group number="1" type="stop"/>
+<part-group number="1" type="stop" />
 </part-list>
 
 <part id="P1">
@@ -497,7 +493,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>工；</text>
 </lyric>
@@ -541,7 +537,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="5">
@@ -971,7 +967,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>己。</text>
 </lyric>
@@ -1015,7 +1011,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="9">
@@ -1051,7 +1047,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>我！</text>
 </lyric>
@@ -1088,7 +1084,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="10">
@@ -1124,7 +1120,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>我！</text>
 </lyric>
@@ -1158,7 +1154,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="11">
@@ -1283,7 +1279,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>我！</text>
 </lyric>
@@ -1318,7 +1314,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="13">
@@ -1622,7 +1618,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>我！</text>
 </lyric>
@@ -1657,7 +1653,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <barline location="right">
 <bar-style>light-heavy</bar-style>
@@ -1672,7 +1668,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>（阿</text>
 </lyric>
@@ -1685,7 +1681,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 <lyric number="1">
 <text>们）</text>
 </lyric>
@@ -1701,7 +1697,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -1711,7 +1707,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <barline location="right">
 <bar-style>light-heavy</bar-style>
@@ -1992,7 +1988,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <backup>
 <duration>6</duration>
@@ -2023,7 +2019,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="5">
@@ -2294,7 +2290,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <chord />
@@ -2305,7 +2301,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <backup>
 <duration>6</duration>
@@ -2336,7 +2332,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="9">
@@ -2367,7 +2363,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur number="1" type="start"/>
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -2379,7 +2375,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur number="1" type="stop"/>
+<slur number="1" type="stop" />
 </notations>
 </note>
 <backup>
@@ -2411,7 +2407,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="10">
@@ -2441,7 +2437,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <backup>
 <duration>6</duration>
@@ -2472,7 +2468,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="11">
@@ -2579,7 +2575,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <backup>
 <duration>6</duration>
@@ -2610,7 +2606,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 </measure>
 <measure number="13">
@@ -2881,7 +2877,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <chord />
@@ -2892,7 +2888,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <backup>
 <duration>6</duration>
@@ -2923,7 +2919,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <barline location="right">
 <bar-style>light-heavy</bar-style>
@@ -2938,7 +2934,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2948,7 +2944,7 @@
 <duration>3</duration>
 <voice>1</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <backup>
 <duration>6</duration>
@@ -2961,7 +2957,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <note>
 <pitch>
@@ -2971,7 +2967,7 @@
 <duration>3</duration>
 <voice>2</voice>
 <type>half</type>
-<dot/>
+<dot />
 </note>
 <barline location="right">
 <bar-style>light-heavy</bar-style>
