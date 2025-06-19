@@ -132,7 +132,13 @@ public class ScoreToastApplication implements CommandLineRunner {
 
    @Override
    public void run(String... args) {
-      asList(new File(".").listFiles(d -> d.getName().endsWith(".musicxml"))).parallelStream().forEach(f -> {
+      File[] files = new File(".").listFiles(d -> d.getName().endsWith(".musicxml"));
+
+      if (files == null || files.length <= 0) {
+         log.info("没有找到任何文件");
+      }
+
+      asList(files).parallelStream().forEach(f -> {
          try {
             checkFile(f);
 
