@@ -15,6 +15,7 @@
 <group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
+<part-name>Soprano&#xA0;&amp;&#xA0;Alto</part-name>
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
@@ -28,6 +29,7 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
+<part-name>Tenor&#xA0;&amp;&#xA0;Base</part-name>
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>
@@ -42,6 +44,7 @@
 </score-part>
 <part-group number="1" type="stop" />
 <score-part id="P3">
+<part-name>Piano</part-name>
 <score-instrument id="P3-I1">
 <instrument-name>Piano</instrument-name>
 <instrument-sound>keyboard.piano</instrument-sound>
