@@ -9,6 +9,12 @@
 <work>
 <work-title>圣诞旋律</work-title>
 </work>
+
+<identification>
+<rights>天乐诗班 2024年12月25日 献</rights>
+<source>https://musescore.com/user/70542124/scores/26318881</source>
+</identification>
+
 <part-list>
 <part-group number="1" type="start">
 <group-symbol>bracket</group-symbol>
@@ -58,6 +64,7 @@
 </midi-instrument>
 </score-part>
 </part-list>
+
 <part id="P1">
 <measure number="1">
 <attributes>
@@ -3704,6 +3711,7 @@
 </barline>
 </measure>
 </part>
+
 <part id="P2">
 <measure number="1">
 <attributes>
@@ -6167,6 +6175,7 @@
 </barline>
 </measure>
 </part>
+
 <part id="P3">
 <measure number="1">
 <attributes>
