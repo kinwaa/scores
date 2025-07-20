@@ -91,7 +91,9 @@ public class ScoreToastApplication implements CommandLineRunner {
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note", "default-x", "default-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/dot", "default-x", "default-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/lyric", "default-x", "default-y", "relative-y");
+      cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/articulations/accent", "default-x", "default-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/fermata", "default-y", "relative-y");
+      cleanAttributes(xpath, doc, "//score-partwise/part/measure/direction/direction-type/metronome", "default-x", "relative-y");
 
       StringBuilder content = new StringBuilder();
 
