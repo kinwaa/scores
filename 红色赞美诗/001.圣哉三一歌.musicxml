@@ -16,8 +16,8 @@
 </work>
 
 <identification>
-<creator type="composer">戴克斯曲（John B. Dykes，1861）</creator>
-<creator type="lyricist">希伯（Reginald Heber，1826）&#x000A;刘廷芳、杨荫浏合译（1932）</creator>
+<creator type="composer">戴克斯曲 (John B. Dykes, 1861)</creator>
+<creator type="lyricist">希伯 (Reginald Heber, 1826)&#x000A;刘廷芳、杨荫浏合译 (1932)</creator>
 <rights>赞美诗 ·新编·</rights>
 <source>https://musescore.com/user/70542124/scores/23529553</source>
 </identification>
@@ -28,6 +28,7 @@
 <group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
+<part-name />
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
@@ -41,6 +42,7 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
+<part-name />
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>
@@ -82,16 +84,16 @@
 <voice>1</voice>
 <type>quarter</type>
 <lyric number="1">
-<text>1.圣</text>
+<text>圣</text>
 </lyric>
 <lyric number="2">
-<text>2.圣</text>
+<text>圣</text>
 </lyric>
 <lyric number="3">
-<text>3.圣</text>
+<text>圣</text>
 </lyric>
 <lyric number="4">
-<text>4.圣</text>
+<text>圣</text>
 </lyric>
 </note>
 <note>
