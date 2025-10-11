@@ -16,7 +16,7 @@
 <creator type="composer">Henry E. Nichol (1896)</creator>
 <creator type="lyricist">Henry E. Nichol (1896)&#x000A;洪侣明译 (2008)</creator>
 <rights>赞美诗 ·补充本·</rights>
-<source>https://musescore.com/user/70542124/scores/28307506</source>
+<source>https://musescore.com/user/70542124/scores/28331686</source>
 </identification>
 
 <part-list>
@@ -3518,6 +3518,9 @@
 <duration>4</duration>
 <voice>2</voice>
 <type>quarter</type>
+<notations>
+<slur number="1" type="stop" />
+</notations>
 </note>
 <note>
 <pitch>
@@ -3527,9 +3530,6 @@
 <duration>4</duration>
 <voice>2</voice>
 <type>quarter</type>
-<notations>
-<slur number="1" type="stop" />
-</notations>
 </note>
 <note>
 <pitch>
