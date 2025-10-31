@@ -19,6 +19,9 @@ demo.svg
 Untitled.musicxml
 
 .project
+.classpath
+.factorypath
+.settings/
 
 /.vscode/
 
