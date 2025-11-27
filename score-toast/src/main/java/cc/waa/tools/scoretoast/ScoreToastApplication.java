@@ -134,7 +134,14 @@ public class ScoreToastApplication implements CommandLineRunner {
 
    @Override
    public void run(String... args) {
-      File[] files = new File(".").listFiles(d -> d.getName().endsWith(".musicxml"));
+      final String target = ".";
+      final File[] files;
+
+      if (target.endsWith(".musicxml")) {
+         files = new File[] { new File(target) };
+      } else {
+         files = new File(target).listFiles(d -> d.getName().endsWith(".musicxml"));
+      }
 
       if (files == null || files.length <= 0) {
          log.info("没有找到任何文件");
