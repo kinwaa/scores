@@ -15,6 +15,7 @@
 <identification>
 <creator type="composer">斯威尼(1837~1899)曲</creator>
 <creator type="lyricist">斯托克斯(1815~1895)词</creator>
+<rights>赞美诗 ·新编·</rights>
 </identification>
 
 <part-list>
@@ -23,6 +24,7 @@
 <group-barline>no</group-barline>
 </part-group>
 <score-part id="P1">
+<part-name />
 <score-instrument id="P1-I1">
 <instrument-name>Women</instrument-name>
 <instrument-sound>voice.female</instrument-sound>
@@ -36,6 +38,7 @@
 </midi-instrument>
 </score-part>
 <score-part id="P2">
+<part-name />
 <score-instrument id="P2-I1">
 <instrument-name>Men</instrument-name>
 <instrument-sound>voice.male</instrument-sound>

@@ -19,6 +19,7 @@
 <identification>
 <creator type="composer">谢纪恩曲（1981）</creator>
 <creator type="lyricist">谢纪恩词（1981）</creator>
+<rights>赞美诗 ·新编·</rights>
 </identification>
 
 <part-list>
@@ -26,8 +27,11 @@
 <group-symbol>bracket</group-symbol>
 <group-barline>no</group-barline>
 </part-group>
-<score-part id="P1" />
+<score-part id="P1">
+<part-name />
+</score-part>
 <score-part id="P2">
+<part-name />
 </score-part>
 <part-group number="1" type="stop" />
 </part-list>
