@@ -80,6 +80,7 @@ public class ScoreToastApplication implements CommandLineRunner {
       XPath xpath = this.pathFactory.newXPath();
 
       cleanNodes(xpath, doc, "//score-partwise/identification/encoding");
+      cleanNodes(xpath, doc, "//score-partwise/identification/miscellaneous");
       // cleanNodes(xpath, doc, "//score-partwise/identification/source"); // 这个保留会好些
       cleanNodes(xpath, doc, "//score-partwise/defaults");
       cleanNodes(xpath, doc, "//score-partwise/credit");
@@ -92,8 +93,9 @@ public class ScoreToastApplication implements CommandLineRunner {
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/dot", "default-x", "default-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/lyric", "default-x", "default-y", "relative-y");
       cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/articulations/accent", "default-x", "default-y");
-      cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/fermata", "default-y", "relative-y");
-      cleanAttributes(xpath, doc, "//score-partwise/part/measure/direction/direction-type/metronome", "default-x", "relative-y");
+      cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/fermata", "default-x", "default-y", "relative-x", "relative-y");
+      cleanAttributes(xpath, doc, "//score-partwise/part/measure/note/notations/slur", "default-x", "default-y", "relative-x", "relative-y", "bezier-x", "bezier-y");
+      cleanAttributes(xpath, doc, "//score-partwise/part/measure/direction/direction-type/metronome", "default-x", "default-y");
 
       StringBuilder content = new StringBuilder();
 
