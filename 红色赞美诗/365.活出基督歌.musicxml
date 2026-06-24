@@ -2,7 +2,9 @@
 <score-partwise
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns="http://www.musicxml.org/xsd/MusicXML"
-   xsi:schemaLocation="http://www.musicxml.org/xsd/MusicXML https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
+   xsi:schemaLocation="
+      http://www.musicxml.org/xsd/MusicXML
+      https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
    version="4.0">
 
 <work>
@@ -117,7 +119,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="6.223637" bezier-y="12.006933" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -130,7 +132,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-11.66666" bezier-y="6.84026" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -145,7 +147,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="5.489777" bezier-y="-8.343662" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -158,7 +160,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-6.635001" bezier-y="-7.465327" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 <note>
@@ -203,7 +205,7 @@
 <dot />
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="4.76868" bezier-y="-11.259394" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -218,7 +220,7 @@
 <beam number="1">end</beam>
 <beam number="2">backward hook</beam>
 <notations>
-<slur bezier-x="-10.601557" bezier-y="-6.092721" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -276,7 +278,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="9.616" bezier-y="12.139285" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -288,7 +290,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-12.499692" bezier-y="9.142615" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -323,7 +325,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="5.489777" bezier-y="-8.343662" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -336,7 +338,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-6.635001" bezier-y="-7.465327" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -375,7 +377,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="7.213451" bezier-y="12.48938" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -388,7 +390,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-12.425637" bezier-y="7.322707" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -403,7 +405,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="5.970077" bezier-y="-8.639424" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -416,7 +418,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-7.074387" bezier-y="-7.76109" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 <note>
@@ -460,7 +462,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="5.970077" bezier-y="8.639424" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -474,7 +476,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-7.074387" bezier-y="7.76109" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -520,7 +522,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="3.386917" bezier-y="-10.499167" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -534,7 +536,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-9.657547" bezier-y="-5.332494" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -548,7 +550,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="14.306585" bezier-y="12.750716" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -561,7 +563,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-15.04346" bezier-y="11.872382" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -595,7 +597,7 @@
 <type>eighth</type>
 <beam number="1">begin</beam>
 <notations>
-<slur bezier-x="15.414144" bezier-y="-13.201978" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -608,7 +610,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-16.125008" bezier-y="-12.323644" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -708,7 +710,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="13.943753" bezier-y="-8.197968" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 <lyric number="1">
 <text>的</text>
@@ -732,7 +734,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-9.111602" bezier-y="-13.364641" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1088,7 +1090,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="14.735224" bezier-y="-8.617647" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 <lyric number="1">
 <text>我</text>
@@ -1112,7 +1114,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-10.068922" bezier-y="-13.78432" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1511,7 +1513,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="9.514807" bezier-y="-12.965948" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -1524,7 +1526,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-13.540549" bezier-y="-8.677609" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1634,7 +1636,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="15.318332" bezier-y="9.875625" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -1647,7 +1649,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-11.962418" bezier-y="13.75063" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1713,7 +1715,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="8.291327" bezier-y="11.513711" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -1725,7 +1727,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-11.347761" bezier-y="8.51704" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1749,7 +1751,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="6.675218" bezier-y="9.057204" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -1762,7 +1764,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-7.72642" bezier-y="8.178869" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1851,7 +1853,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="16.46479" bezier-y="10.105276" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -1864,7 +1866,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-12.885254" bezier-y="14.393615" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -1980,7 +1982,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="13.540549" bezier-y="8.677609" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -1992,7 +1994,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-9.514807" bezier-y="12.965948" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -2100,7 +2102,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="11.785493" bezier-y="-13.944209" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -2112,7 +2114,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-15.495257" bezier-y="-9.65587" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -2156,7 +2158,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="7.172752" bezier-y="-12.46992" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -2169,7 +2171,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="-12.393945" bezier-y="-7.303247" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -2195,7 +2197,7 @@
 <type>quarter</type>
 <dot />
 <notations>
-<slur bezier-x="12.001329" bezier-y="11.756174" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -2208,7 +2210,7 @@
 <voice>1</voice>
 <type>eighth</type>
 <notations>
-<slur bezier-x="-12.802818" bezier-y="10.87784" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -2273,7 +2275,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="16.122417" bezier-y="10.541012" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -2286,7 +2288,7 @@
 <voice>1</voice>
 <type>quarter</type>
 <notations>
-<slur bezier-x="-13.227628" bezier-y="14.002683" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
@@ -2329,7 +2331,7 @@
 <voice>1</voice>
 <type>half</type>
 <notations>
-<slur bezier-x="21.197255" bezier-y="-14.799952" number="1" type="start" />
+<slur number="1" type="start" />
 </notations>
 </note>
 <note>
@@ -2352,7 +2354,7 @@
 <type>eighth</type>
 <beam number="1">end</beam>
 <notations>
-<slur bezier-x="-21.197255" bezier-y="-14.799952" number="1" type="stop" />
+<slur number="1" type="stop" />
 </notations>
 </note>
 </measure>
