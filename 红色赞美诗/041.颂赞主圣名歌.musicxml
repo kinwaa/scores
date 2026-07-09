@@ -1,0 +1,3601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<score-partwise
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="http://www.musicxml.org/xsd/MusicXML"
+   xsi:schemaLocation="
+      http://www.musicxml.org/xsd/MusicXML
+      https://i.kinwaa.cn/schema/musicxml-4.0/musicxml.xsd"
+   version="4.0">
+
+<work>
+<work-number>Blessed be the name of the LORD</work-number>
+<work-title>颂赞主圣名歌</work-title>
+</work>
+
+<identification>
+<creator type="composer">赫德森曲 1843~1901&#x000A;(Ralph E. Hudson)&#x000A;柯克帕特里克改编 1891&#x000A;(W. J. Kirkpatrick)</creator>
+<creator type="lyricist">克拉克词 19世纪&#x000A;(William H. Clark)&#x000A;选自多种诗本</creator>
+<source>https://musescore.com/user/70542124/scores/35545964</source>
+</identification>
+
+<part-list>
+<part-group number="1" type="start">
+<group-symbol>bracket</group-symbol>
+<group-barline>no</group-barline>
+</part-group>
+<score-part id="P1">
+<part-name>Soprano</part-name>
+<part-abbreviation>S.</part-abbreviation>
+<score-instrument id="P1-I1">
+<instrument-name>Women</instrument-name>
+<instrument-sound>voice.female</instrument-sound>
+</score-instrument>
+<midi-device id="P1-I1" port="1" />
+<midi-instrument id="P1-I1">
+<midi-channel>1</midi-channel>
+<midi-program>53</midi-program>
+<volume>78.7402</volume>
+<pan>0</pan>
+</midi-instrument>
+</score-part>
+<score-part id="P2">
+<part-name>Alto</part-name>
+<part-abbreviation>A.</part-abbreviation>
+<score-instrument id="P2-I1">
+<instrument-name>女中音</instrument-name>
+<instrument-sound>voice.mezzo-soprano</instrument-sound>
+</score-instrument>
+<midi-device id="P2-I1" port="1" />
+<midi-instrument id="P2-I1">
+<midi-channel>4</midi-channel>
+<midi-program>53</midi-program>
+<volume>78.7402</volume>
+<pan>0</pan>
+</midi-instrument>
+</score-part>
+<score-part id="P3">
+<part-name>Tenor</part-name>
+<part-abbreviation>T.</part-abbreviation>
+<score-instrument id="P3-I1">
+<instrument-name>男高音</instrument-name>
+<instrument-sound>voice.tenor</instrument-sound>
+</score-instrument>
+<midi-device id="P3-I1" port="1" />
+<midi-instrument id="P3-I1">
+<midi-channel>3</midi-channel>
+<midi-program>53</midi-program>
+<volume>78.7402</volume>
+<pan>0</pan>
+</midi-instrument>
+</score-part>
+<score-part id="P4">
+<part-name>Base</part-name>
+<part-abbreviation>B.</part-abbreviation>
+<score-instrument id="P4-I1">
+<instrument-name>男低音</instrument-name>
+<instrument-sound>voice.bass</instrument-sound>
+</score-instrument>
+<midi-device id="P4-I1" port="1" />
+<midi-instrument id="P4-I1">
+<midi-channel>5</midi-channel>
+<midi-program>53</midi-program>
+<volume>78.7402</volume>
+<pan>0</pan>
+</midi-instrument>
+</score-part>
+<part-group number="1" type="stop" />
+</part-list>
+
+<part id="P1">
+<measure implicit="yes" number="0">
+<attributes>
+<divisions>4</divisions>
+<key>
+<fifths>3</fifths>
+</key>
+<time>
+<beats>4</beats>
+<beat-type>4</beat-type>
+</time>
+<clef>
+<sign>G</sign>
+<line>2</line>
+</clef>
+</attributes>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>1.颂</text>
+</lyric>
+<lyric number="2">
+<text>2.耶</text>
+</lyric>
+<lyric number="3">
+<text>3.主</text>
+</lyric>
+<lyric number="4">
+<text>4.主</text>
+</lyric>
+</note>
+</measure>
+<measure number="1">
+<barline location="left">
+<bar-style>heavy-light</bar-style>
+<repeat direction="forward" />
+</barline>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+<lyric number="2">
+<text>稣</text>
+</lyric>
+<lyric number="3">
+<text>名</text>
+</lyric>
+<lyric number="4">
+<text>名</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>归</text>
+</lyric>
+<lyric number="2">
+<text>圣</text>
+</lyric>
+<lyric number="3">
+<text>称</text>
+</lyric>
+<lyric number="4">
+<text>何</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+<lyric number="1">
+<text>与</text>
+</lyric>
+<lyric number="2">
+<text>名</text>
+</lyric>
+<lyric number="3">
+<text>为</text>
+</lyric>
+<lyric number="4">
+<text>等</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<lyric number="1">
+<text>耶</text>
+</lyric>
+<lyric number="2">
+<text>满</text>
+</lyric>
+<lyric number="3">
+<text>奇</text>
+</lyric>
+<lyric number="4">
+<text>佳</text>
+</lyric>
+</note>
+</measure>
+<measure number="2">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>稣</text>
+</lyric>
+<lyric number="2">
+<text>有</text>
+</lyric>
+<lyric number="3">
+<text>妙、</text>
+</lyric>
+<lyric number="4">
+<text>美</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+<lyric number="2">
+<text>权</text>
+</lyric>
+<lyric number="3">
+<text>策</text>
+</lyric>
+<lyric number="4">
+<text>馨</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+<lyric number="1">
+<text>名，</text>
+</lyric>
+<lyric number="2">
+<text>能，</text>
+</lyric>
+<lyric number="3">
+<text>士、</text>
+</lyric>
+<lyric number="4">
+<text>香！</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<lyric number="1">
+<text>至</text>
+</lyric>
+<lyric number="2">
+<text>使</text>
+</lyric>
+<lyric number="3">
+<text>全</text>
+</lyric>
+<lyric number="4">
+<text>普</text>
+</lyric>
+</note>
+</measure>
+<measure number="3">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>高！</text>
+</lyric>
+<lyric number="2">
+<text>魔</text>
+</lyric>
+<lyric number="3">
+<text>能</text>
+</lyric>
+<lyric number="4">
+<text>遍</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>至</text>
+</lyric>
+<lyric number="2">
+<text>鬼</text>
+</lyric>
+<lyric number="3">
+<text>和</text>
+</lyric>
+<lyric number="4">
+<text>宇</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>圣！</text>
+</lyric>
+<lyric number="2">
+<text>都</text>
+</lyric>
+<lyric number="3">
+<text>平</text>
+</lyric>
+<lyric number="4">
+<text>宙</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>至</text>
+</lyric>
+<lyric number="2">
+<text>逃</text>
+</lyric>
+<lyric number="3">
+<text>之</text>
+</lyric>
+<lyric number="4">
+<text>穹</text>
+</lyric>
+</note>
+</measure>
+<measure number="4">
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+<lyric number="1">
+<text>尊！</text>
+</lyric>
+<lyric number="2">
+<text>遁；</text>
+</lyric>
+<lyric number="3">
+<text>君；</text>
+</lyric>
+<lyric number="4">
+<text>苍；</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+<lyric number="1">
+<text>天</text>
+</lyric>
+<lyric number="2">
+<text>能</text>
+</lyric>
+<lyric number="3">
+<text>万</text>
+</lyric>
+<lyric number="4">
+<text>主</text>
+</lyric>
+</note>
+</measure>
+<measure number="5">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>上</text>
+</lyric>
+<lyric number="2">
+<text>使</text>
+</lyric>
+<lyric number="3">
+<text>膝</text>
+</lyric>
+<lyric number="4">
+<text>名</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>地</text>
+</lyric>
+<lyric number="2">
+<text>罪</text>
+</lyric>
+<lyric number="3">
+<text>跪</text>
+</lyric>
+<lyric number="4">
+<text>超</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>下</text>
+</lyric>
+<lyric number="2">
+<text>人</text>
+</lyric>
+<lyric number="3">
+<text>拜，</text>
+</lyric>
+<lyric number="4">
+<text>乎</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>歌</text>
+</lyric>
+<lyric number="2">
+<text>出</text>
+</lyric>
+<lyric number="3">
+<text>万</text>
+</lyric>
+<lyric number="4">
+<text>万</text>
+</lyric>
+</note>
+</measure>
+<measure number="6">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+<lyric number="2">
+<text>死</text>
+</lyric>
+<lyric number="3">
+<text>口</text>
+</lyric>
+<lyric number="4">
+<text>名</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>主</text>
+</lyric>
+<lyric number="2">
+<text>入</text>
+</lyric>
+<lyric number="3">
+<text>承</text>
+</lyric>
+<lyric number="4">
+<text>之</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+<lyric number="1">
+<text>名，</text>
+</lyric>
+<lyric number="2">
+<text>生，</text>
+</lyric>
+<lyric number="3">
+<text>认，</text>
+</lyric>
+<lyric number="4">
+<text>上，</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<lyric number="1">
+<text>歌</text>
+</lyric>
+<lyric number="2">
+<text>得</text>
+</lyric>
+<lyric number="3">
+<text>荣</text>
+</lyric>
+<lyric number="4">
+<text>配</text>
+</lyric>
+</note>
+</measure>
+<measure number="7">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>声</text>
+</lyric>
+<lyric number="2">
+<text>到</text>
+</lyric>
+<lyric number="3">
+<text>耀</text>
+</lyric>
+<lyric number="4">
+<text>受</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>昼</text>
+</lyric>
+<lyric number="2">
+<text>天</text>
+</lyric>
+<lyric number="3">
+<text>永</text>
+</lyric>
+<lyric number="4">
+<text>一</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>夜</text>
+</lyric>
+<lyric number="2">
+<text>堂</text>
+</lyric>
+<lyric number="3">
+<text>归</text>
+</lyric>
+<lyric number="4">
+<text>切</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>不</text>
+</lyric>
+<lyric number="2">
+<text>福</text>
+</lyric>
+<lyric number="3">
+<text>主</text>
+</lyric>
+<lyric number="4">
+<text>颂</text>
+</lyric>
+</note>
+</measure>
+<measure number="8">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+<lyric number="1">
+<text>停。</text>
+</lyric>
+<lyric number="2">
+<text>份。</text>
+</lyric>
+<lyric number="3">
+<text>名。</text>
+</lyric>
+<lyric number="4">
+<text>扬。</text>
+</lyric>
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="9">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>主</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+<lyric number="1">
+<text>名，</text>
+</lyric>
+</note>
+</measure>
+<measure number="10">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>主</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+<lyric number="1">
+<text>名，</text>
+</lyric>
+</note>
+</measure>
+<measure number="11">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>荣</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>耀</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>归</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>主</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+</note>
+</measure>
+<measure number="12">
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+<lyric number="1">
+<text>名！</text>
+</lyric>
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="13">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>主</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+<lyric number="1">
+<text>名，</text>
+</lyric>
+</note>
+</measure>
+<measure number="14">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>主</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+<lyric number="1">
+<text>名，</text>
+</lyric>
+</note>
+</measure>
+<measure number="15">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>颂</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+<lyric number="1">
+<text>赞</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>荣</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>耀</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>归</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+<lyric number="1">
+<text>主</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+<lyric number="1">
+<text>圣</text>
+</lyric>
+</note>
+</measure>
+<measure number="16">
+<barline location="left">
+<ending default-y="39.86" number="1, 2, 3" type="start">1. 2. 3.</ending>
+</barline>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+<lyric number="1">
+<text>名！</text>
+</lyric>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+<lyric number="1">
+<text>2.耶</text>
+</lyric>
+<lyric number="2">
+<text>3.主</text>
+</lyric>
+<lyric number="3">
+<text>4.主</text>
+</lyric>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+<ending number="1, 2, 3" type="stop" />
+<repeat direction="backward" times="4" />
+</barline>
+</measure>
+<measure number="17">
+<barline location="left">
+<ending default-y="39.86" number="4" type="start">4.</ending>
+</barline>
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+<lyric number="1">
+<text>名！</text>
+</lyric>
+</note>
+<barline location="right">
+<ending number="4" type="discontinue" />
+</barline>
+</measure>
+<measure number="18">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+<lyric number="1">
+<text>（阿</text>
+</lyric>
+</note>
+</measure>
+<measure number="19">
+<note>
+<pitch>
+<step>A</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+<lyric number="1">
+<text>们）</text>
+</lyric>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+</barline>
+</measure>
+</part>
+
+<part id="P2">
+<measure implicit="yes" number="0">
+<attributes>
+<divisions>4</divisions>
+<key>
+<fifths>3</fifths>
+</key>
+<time>
+<beats>4</beats>
+<beat-type>4</beat-type>
+</time>
+<clef>
+<sign>G</sign>
+<line>2</line>
+</clef>
+</attributes>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="1">
+<barline location="left">
+<bar-style>heavy-light</bar-style>
+<repeat direction="forward" />
+</barline>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="2">
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="3">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="4">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="5">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="6">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="7">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="8">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="9">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="10">
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="11">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<accidental>sharp</accidental>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+</measure>
+<measure number="12">
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="13">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="14">
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="15">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+</measure>
+<measure number="16">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+<repeat direction="backward" times="4" />
+</barline>
+</measure>
+<measure number="17">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+</measure>
+<measure number="18">
+<note>
+<pitch>
+<step>D</step>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+</note>
+</measure>
+<measure number="19">
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>4</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+</barline>
+</measure>
+</part>
+
+<part id="P3">
+<measure implicit="yes" number="0">
+<attributes>
+<divisions>4</divisions>
+<key>
+<fifths>3</fifths>
+</key>
+<time>
+<beats>4</beats>
+<beat-type>4</beat-type>
+</time>
+<clef>
+<sign>G</sign>
+<line>2</line>
+<clef-octave-change>-1</clef-octave-change>
+</clef>
+</attributes>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="1">
+<barline location="left">
+<bar-style>heavy-light</bar-style>
+<repeat direction="forward" />
+</barline>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="2">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="3">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="4">
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="5">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="6">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="7">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="8">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="9">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="10">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="11">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>B</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+</measure>
+<measure number="12">
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="13">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="14">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="15">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+</measure>
+<measure number="16">
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+<repeat direction="backward" times="4" />
+</barline>
+</measure>
+<measure number="17">
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+</measure>
+<measure number="18">
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+</note>
+</measure>
+<measure number="19">
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+</barline>
+</measure>
+</part>
+
+<part id="P4">
+<measure implicit="yes" number="0">
+<attributes>
+<divisions>4</divisions>
+<key>
+<fifths>3</fifths>
+</key>
+<time>
+<beats>4</beats>
+<beat-type>4</beat-type>
+</time>
+<clef>
+<sign>F</sign>
+<line>4</line>
+</clef>
+</attributes>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="1">
+<barline location="left">
+<bar-style>heavy-light</bar-style>
+<repeat direction="forward" />
+</barline>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="2">
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="3">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="4">
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="5">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="6">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>6</duration>
+<voice>1</voice>
+<type>quarter</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+</note>
+</measure>
+<measure number="7">
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="8">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="9">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="10">
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="11">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>G</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+</measure>
+<measure number="12">
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<rest />
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+</measure>
+<measure number="13">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="14">
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>8</duration>
+<voice>1</voice>
+<type>half</type>
+</note>
+</measure>
+<measure number="15">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>2</duration>
+<voice>1</voice>
+<type>eighth</type>
+<beam number="1">end</beam>
+</note>
+<note>
+<pitch>
+<step>C</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>3</duration>
+<voice>1</voice>
+<type>eighth</type>
+<dot />
+<beam number="1">begin</beam>
+</note>
+<note>
+<pitch>
+<step>E</step>
+<octave>3</octave>
+</pitch>
+<duration>1</duration>
+<voice>1</voice>
+<type>16th</type>
+<beam number="1">end</beam>
+<beam number="2">backward hook</beam>
+</note>
+</measure>
+<measure number="16">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>4</duration>
+<voice>1</voice>
+<type>quarter</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+<repeat direction="backward" times="4" />
+</barline>
+</measure>
+<measure number="17">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>12</duration>
+<voice>1</voice>
+<type>half</type>
+<dot />
+</note>
+</measure>
+<measure number="18">
+<note>
+<pitch>
+<step>D</step>
+<octave>3</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+</note>
+</measure>
+<measure number="19">
+<note>
+<pitch>
+<step>A</step>
+<octave>2</octave>
+</pitch>
+<duration>16</duration>
+<voice>1</voice>
+<type>whole</type>
+</note>
+<barline location="right">
+<bar-style>light-heavy</bar-style>
+</barline>
+</measure>
+</part>
+</score-partwise>
